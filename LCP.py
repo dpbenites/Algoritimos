@@ -19,11 +19,8 @@ def LCP(strs:list):
     low , high  = 0 , len(min_str) -1 
     mid   = (low + high) // 2
 
-    for i in range(0, len(min_str)):
-        
+    #dont make anything
 
-
-    return min_str
 
 
 
